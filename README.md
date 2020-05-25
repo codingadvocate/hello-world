@@ -5,11 +5,11 @@ IT Service Management (ITSM) has been well established with proprietary tooling 
 
 Several reasons, including:
 
- * Add new methodologies into ITSM discovery, more than just the 1-to-1 model of job-to-technology
- * Discovery jobs should be vendor agnostic; develop once and send to any ITSM product
  * Offer horizontal, on-demand scalability with the discovery framework, instead of installing/configuring new collectors
+ * Add new methodologies into ITSM discovery, more than just the 1-to-1 model of job-to-technology
+ * Jobs should be vendor agnostic; develop once and send to any ITSM product
  * Greatly increase the developer resource pool for new content
- * Crowdsourcing discovery/integration jobs
+ * Crowdsourcing discovery/integration jobs; let individuals compete with big vendors and their consulting firms 
 
 As a special note: the included "dynamic discovery" is fundamentally different from the method used by proprietary products. It captures new products and dependencies without requiring 1-to-1 configurations or 1-to-1 discovery before mapping a new product. This is increasingly important with how fast products go from idea to release today, by using turn-key DevOps, readily available developer libraries, and the open-source consortium.
 
