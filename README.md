@@ -13,7 +13,7 @@ Several reasons, including:
 
 As a special note: the included "dynamic discovery" is fundamentally different from the method used by proprietary products. It captures new products and dependencies without requiring 1-to-1 configurations or 1-to-1 discovery before mapping a new product. This is increasingly important with how fast products go from idea to release today, by using turn-key DevOps, readily available developer libraries, and the open-source consortium.
 
-There are many paid ITSM services available after setting up tooling, as delivered by partner ecosystems with the proprietary products. The same is available here, but without the initial price tag. The preferred provider of paid professional services, support, training, and documentation is currently `CMS Construct <https://cmsconstruct.com>`_ (the creators of this platform).
+There are many paid ITSM services available after setting up tooling, as delivered by partner ecosystems with the proprietary products. The same is available here, but without the initial price tag. The preferred provider of paid professional services, support, training, and documentation is currently CMS Construct (https://cmsconstruct.com), the creators of this platform.
 
 
 Installation:
