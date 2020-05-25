@@ -18,7 +18,7 @@ There are many paid ITSM services available after setting up tooling, as deliver
 
 Installation:
 -------------
-OCP has stack dependencies on Python 3.x and corresponding modules, Kafka, and Postgres. 
+OCP has stack dependencies on Python 3.x, Python libraries, Kafka, and Postgres. 
 
 Install the stack: 
  * Kafka
@@ -61,9 +61,3 @@ To avoid a single point of failure, you want multiple Kafka instances. Depending
 The clients are built to horizontally scale on demand. If you need more performance/capacity/throughput on a certain client type, spin another one up. It will subscribe to the appropriate service and start the work. You can have tooling automate the spin up and down of new clients as well. To enable that, you would copy/clone the directory structure for an "image" to deploy/execute on demand.
 
 Multiple clients (of the same type or different), may be spun up in the same execution environment - as long as they are deployed in their own sub-directory. This avoids file conﬂicts, mainly from logging. 
-
-
-License:
---------
-`GNU Library or "Lesser" General Public License (LGPL) v3 <https://opensource.org/licenses/LGPL-3.0>`_
-
