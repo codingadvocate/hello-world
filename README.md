@@ -6,7 +6,7 @@ IT Service Management (ITSM) has been well established with proprietary tooling 
 Several reasons, including:
 
  * Offer horizontal, on-demand scalability with the discovery framework
- * Add new methodologies into ITSM discovery, more than the old 1-to-1 model of job-to-technology
+ * Add new methodologies into ITSM discovery, more than just the 1-to-1 model of job-to-technology
  * Jobs should be vendor agnostic; develop once and send to any ITSM product
  * Create a single ITSM developer resource pool
  * Crowdsourcing discovery/integration jobs; let individuals compete with big vendors and their consulting firms
